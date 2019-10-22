@@ -1,0 +1,27 @@
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 21/10/2019 - 23:34 
+QUERY PARAMS: ?lat=1.91829182918&long=2,0909090a
+ ****** response ******* 
+RESPONSE: {"error":true,"message":"Invalid params"} 
+STATUS: 400
+
+
+ ****** request ******* 
+PATH: /V1/stores/Haome 
+DATE: 21/10/2019 - 23:34 
+QUERY PARAMS: ?lat=1.91829182918&long=2,0909090
+ ****** response ******* 
+RESPONSE:  
+STATUS: 404
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 21/10/2019 - 23:34 
+QUERY PARAMS: ?lat=1.91829182918&long=2,0909090
+ ****** response ******* 
+RESPONSE: 1.91829182918 
+STATUS: 200
+
+
