@@ -1,27 +1,911 @@
  ****** request ******* 
 PATH: /V1/stores/Home 
-DATE: 21/10/2019 - 23:34 
-QUERY PARAMS: ?lat=1.91829182918&long=2,0909090a
+DATE: 23/10/2019 - 01:21 
+QUERY PARAMS: ?lat=1.91829182918&long=2,0909090
  ****** response ******* 
-RESPONSE: {"error":true,"message":"Invalid params"} 
-STATUS: 400
+STATUS: 200
+NUMBER OF STORES: 23974
 
 
  ****** request ******* 
-PATH: /V1/stores/Haome 
-DATE: 21/10/2019 - 23:34 
-QUERY PARAMS: ?lat=1.91829182918&long=2,0909090
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:28 
+QUERY PARAMS: 
  ****** response ******* 
-RESPONSE:  
-STATUS: 404
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
 
 
  ****** request ******* 
 PATH: /V1/stores/Home 
-DATE: 21/10/2019 - 23:34 
+DATE: 23/10/2019 - 01:28 
+QUERY PARAMS: ?lat=1.91829182918&long=2,0909090
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:28 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** response ******* 
+STATUS: 500
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Could not get data from database"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:29 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:30 
 QUERY PARAMS: ?lat=1.91829182918&long=2,0909090
  ****** response ******* 
-RESPONSE: 1.91829182918 
 STATUS: 200
+NUMBER OF STORES: 23974
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:37 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:37 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:37 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:38 
+QUERY PARAMS: ?lat=40&long=-73
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 0
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:39 
+QUERY PARAMS: ?lat=43&long=-73
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 0
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:39 
+QUERY PARAMS: ?lat=43&long=--73.51621
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Invalid params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:39 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:44 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:44 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:44 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:44 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:45 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:45 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:45 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:45 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:47 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:48 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:48 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:49 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:49 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:49 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:49 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:49 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:49 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:49 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:49 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 735
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:50 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:52 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:52 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:52 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:52 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:53 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:53 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:53 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:53 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:55 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:55 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:55 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:55 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:58 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 01:58 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 01:58 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 01:58 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** response ******* 
+STATUS: 500
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Could not get data from database"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:01 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:01 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 02:01 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:01 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:01 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 02:01 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:01 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 735
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:03 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:03 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 02:03 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:04 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 735
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:10 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:10 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 02:10 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:10 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:12 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:12 
+QUERY PARAMS: ?lat=56&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 0
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:12 
+QUERY PARAMS: ?lat=43&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:12 
+QUERY PARAMS: ?lat=40&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 0
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:13 
+QUERY PARAMS: ?lat=42&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:13 
+QUERY PARAMS: ?lat=42&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:14 
+QUERY PARAMS: ?lat=89&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 0
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:14 
+QUERY PARAMS: ?lat=39&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 0
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:14 
+QUERY PARAMS: ?lat=42.1&long=-73.51621
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 5
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:14 
+QUERY PARAMS: ?long=-73.51621&lat=45
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 4
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:16 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:16 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 02:16 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:16 
+QUERY PARAMS: ?long=-73.51621&lat=45
+ ****** response ******* 
+STATUS: 500
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Could not get data from database"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:19 
+QUERY PARAMS: ?long=-73.51621&lat=45
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:19 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:19 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 02:19 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:19 
+QUERY PARAMS: ?long=-73.51621&lat=45
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:22 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:22 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 02:22 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:22 
+QUERY PARAMS: ?long=-73.51621&lat=45
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 4
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:22 
+QUERY PARAMS: ?long=-73.51621&lat=43
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:22 
+QUERY PARAMS: ?long=-73.51621&lat=42
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:25 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 23/10/2019 - 02:25 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 23/10/2019 - 02:25 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:25 
+QUERY PARAMS: ?long=-73.51621&lat=42
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:26 
+QUERY PARAMS: ?long=-73.51621&lat=41
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 0
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:26 
+QUERY PARAMS: ?long=-73.51621&lat=43
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 1
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:26 
+QUERY PARAMS: ?long=-73.418&lat=44.750828
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 15
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:27 
+QUERY PARAMS: ?long=-73.418&lat=44.750828a
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Invalid params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores/Home 
+DATE: 23/10/2019 - 02:27 
+QUERY PARAMS: ?long=-73.418&lat=44.750828
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 15
 
 

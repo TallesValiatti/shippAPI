@@ -49,9 +49,18 @@ namespace shippAPI.Middlewares
             var status = response.StatusCode;
             response.Body.Seek(0, SeekOrigin.Begin);
 
-            return $" ****** response ******* {Environment.NewLine}" +
-                   $"RESPONSE: {text} {Environment.NewLine}" +
-                   $"STATUS: {status}{Environment.NewLine}{Environment.NewLine}" ;
+            var countStore = response.HttpContext.Items["countStores"] == null ? 0 : response.HttpContext.Items["countStores"];
+
+            var body =  $" ****** response ******* {Environment.NewLine}" +
+                   $"STATUS: {status}{Environment.NewLine}" +
+                   $"NUMBER OF STORES: {countStore}{Environment.NewLine}";
+
+            //avoid log a big responses body. Then, just error could be logged
+            if (status != 200)
+                body += $"RESPONSE: {text}{Environment.NewLine}";
+
+            body += $"{Environment.NewLine}";
+            return body;
         }
 
         private async Task<string> FormatRequest(HttpRequest request)

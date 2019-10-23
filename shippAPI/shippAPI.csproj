@@ -9,8 +9,19 @@
 
   <ItemGroup>
     <Folder Include="Middlewares\" />
+    <Folder Include="database\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="3.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="database\stores.csv" />
+    <None Remove="readme.txt" />
+    <None Remove="database.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="database\stores.csv" />
+    <EmbeddedResource Include="readme.txt" />
   </ItemGroup>
 </Project>
