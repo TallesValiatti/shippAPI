@@ -1116,3 +1116,43 @@ NUMBER OF STORES: 0
 RESPONSE: {"error":true,"message":"Missing params"}
 
 
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 08:15 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 08:15 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 25/10/2019 - 08:15 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 25/10/2019 - 08:15 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
