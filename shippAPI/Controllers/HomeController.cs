@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace shippAPI.Controllers
 {
     [ApiController]
-    [Route("/V1/stores/[controller]")]
+    [Route("/V1/stores/")]
     public class HomeController : ControllerBase
     {
         // GET: /<controller>/

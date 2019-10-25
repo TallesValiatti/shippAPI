@@ -909,3 +909,210 @@ STATUS: 200
 NUMBER OF STORES: 15
 
 
+ ****** request ******* 
+PATH: /V1/stores 
+DATE: 25/10/2019 - 02:30 
+QUERY PARAMS: ?long=-73.418&lat=44.750828
+ ****** response ******* 
+STATUS: 404
+NUMBER OF STORES: 0
+RESPONSE: 
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 25/10/2019 - 02:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 25/10/2019 - 02:30 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores 
+DATE: 25/10/2019 - 02:30 
+QUERY PARAMS: ?long=-73.418&lat=44.750828
+ ****** response ******* 
+STATUS: 404
+NUMBER OF STORES: 0
+RESPONSE: 
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:31 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:31 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 25/10/2019 - 02:31 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:31 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:31 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 25/10/2019 - 02:32 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores 
+DATE: 25/10/2019 - 02:32 
+QUERY PARAMS: ?long=-73.418&lat=44.750828
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 15
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:42 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /weatherforecast 
+DATE: 25/10/2019 - 02:42 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 25/10/2019 - 02:42 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
+ ****** request ******* 
+PATH: /V1/stores 
+DATE: 25/10/2019 - 02:42 
+QUERY PARAMS: ?long=-73.418&lat=44.750828
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 15
+
+
+ ****** request ******* 
+PATH: /V1/stores 
+DATE: 25/10/2019 - 02:42 
+QUERY PARAMS: ?long=-73.418&lat=44.750828
+ ****** response ******* 
+STATUS: 200
+NUMBER OF STORES: 15
+
+
+ ****** request ******* 
+PATH: /favicon.ico 
+DATE: 25/10/2019 - 02:42 
+QUERY PARAMS: 
+ ****** response ******* 
+STATUS: 400
+NUMBER OF STORES: 0
+RESPONSE: {"error":true,"message":"Missing params"}
+
+
