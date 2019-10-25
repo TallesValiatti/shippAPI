@@ -46,7 +46,7 @@ namespace shippAPI
         {
             try
             {
-                var connectionString = "data source=database/database;";
+                var connectionString = "data source=DatabaseFolder/database;";
                 //var connectionString = "";
                 using (var connection = new SqliteConnection(connectionString))
                 {
@@ -94,14 +94,16 @@ namespace shippAPI
                 //OK
                 return true;
             }
-            catch(SqliteException)
+            catch(SqliteException ex)
             {
                 //Exception on open and process the query at sqlite database
+                Console.Write(ex.Message);
                 return false;
             }
             catch (Exception ex)
             {
                 //Generic Exception
+                Console.Write(ex.Message);
                 var a = ex.Message;
                 return false;
             }
@@ -137,7 +139,7 @@ namespace shippAPI
             return true;
         }
 
-        private double DistanceTwoCoordinates(double Lat1, double Long1, double Lat2, double Long2)
+        public double DistanceTwoCoordinates(double Lat1, double Long1, double Lat2, double Long2)
         {
             double dDistance = Double.MinValue;
             double dLat1InRad = Lat1 * (Math.PI / 180.0);
